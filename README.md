@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @IagoRPN
-- I'm a Electrical Engineer in development. I'm interested in a lot of technology and nerd things. 
-- Actually I'm focused in embedded systems and data analytics.  
+ # Bem- Vindo 👋
+Me chamo **Iago Rodrigues**, sou estudante de engenharia elétrica e moro em São Paulo - SP.
+
+Sou fascinado por tecnologia :computer:, videogame :video_game: e exatas :microscope:. 
+
+Meus desafios no momento são Data Science, IA e Internet of Things.
+
+
 
 <!---
 IagoRPN/IagoRPN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
