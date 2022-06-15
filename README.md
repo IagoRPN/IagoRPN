@@ -5,6 +5,19 @@ Sou fascinado por tecnologia :computer:, videogame :video_game: e exatas :micros
 
 Meus desafios no momento são Data Science, IA e Internet of Things.
 
+## Meus contatos
+- Email: iagorpn@gmail.com
+- Whatsapp: (11) 98298-7336
+- LinkedIn: www.linkedin.com/in/iago-r220400
+
+## Ferramentas
+- C++
+- Python
+- JavaScript
+- SQL
+- ReactNative
+- Google Firebase
+
 
 
 <!---
