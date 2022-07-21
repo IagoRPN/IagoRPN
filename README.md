@@ -1,7 +1,7 @@
  # Bem- Vindo 👋
 Me chamo **Iago Rodrigues**, sou estudante de engenharia elétrica e moro em São Paulo - SP.
 
-Sou fascinado por tecnologia :computer:, videogames :video_game: e exatas :microscope:. 
+Sou fascinado por tecnologia :computer:, videogames :video_game: e ciências :microscope:. 
 
 Meus desafios no momento são Data Science, IA e Internet of Things.
 
