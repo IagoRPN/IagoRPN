@@ -12,10 +12,10 @@ Meus desafios no momento são Data Science, IA e Internet of Things.
 
 ## Ferramentas
 - C++
-- Python
-- JavaScript
+- Arduino | ESP32
+- Python | Pandas
+- JavaScript | ReactNative
 - SQL
-- ReactNative
 - Google Firebase
 
 
