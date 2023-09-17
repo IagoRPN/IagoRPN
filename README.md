@@ -1,9 +1,9 @@
  # Bem- Vindo 👋
-Me chamo **Iago Rodrigues**, sou estudante de engenharia elétrica e moro em São Paulo - SP.
+Me chamo **Iago Rodrigues**, formado em Engenharia Elétrica e apaixonado por tecnologia e transformação digital.
 
-Sou fascinado por tecnologia :computer:, videogames :video_game: e ciências :microscope:. 
+Atualmente trabalho em uma empresa no segmento de IoT.
 
-Meus desafios no momento são Data Science, IA e Internet of Things.
+Também estou focado em aprender DataScience utilizando Python.
 
 ## Meus contatos
 - Email: iagorpn@gmail.com
@@ -14,8 +14,6 @@ Meus desafios no momento são Data Science, IA e Internet of Things.
 - C++
 - Arduino | ESP32
 - Python | Pandas
-- JavaScript | ReactNative
-- SQL
 - Google Firebase
 
 
